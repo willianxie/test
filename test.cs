@@ -24,3 +24,4 @@ public void RemoveParam(int _id)
 	test3
 	
 	test2-1
+	test2-2
